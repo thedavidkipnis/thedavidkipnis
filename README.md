@@ -5,3 +5,5 @@ I like to code - I'm experienced with Python, Java, TSQL, HTML/CSS, React/JavaSc
 Currently I work on building web applications (React, JavaScript) and database solutions (python, TSQL).
 
 I graduated with a master's in computer science & artificial intelligence from Western Washington University in 2023.
+
+My [portoflio](https://thedavidkipnis.github.io/portfolio/)!
