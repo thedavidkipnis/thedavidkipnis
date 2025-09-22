@@ -6,4 +6,4 @@ Currently I work on building web applications (React, JavaScript) and database s
 
 I graduated with a master's in computer science & artificial intelligence from Western Washington University in 2023.
 
-My [portoflio](https://thedavidkipnis.github.io/portfolio/)!
+My [portoflio](https://thedavidkipnis.github.io/portfolio2.0/)!
